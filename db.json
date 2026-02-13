@@ -1,4 +1,11 @@
 {
-    "uers":[],
-    "todos":[]
+  "users": [
+    {
+      "id": "8ac8",
+      "name": "vinayak",
+      "email": "karaguppivinayak012@gmail.com",
+      "password": "1234"
+    }
+  ],
+  "todos": []
 }
